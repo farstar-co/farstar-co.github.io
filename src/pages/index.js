@@ -11,14 +11,14 @@ const IndexPage = () => (
     <div style={{ maxWidth: `150px`, marginBottom: `1.45rem` }}>
       <Logo />
     </div>
-    <h1>Large Title</h1>
+    <h1>(Social Change)++</h1>
     <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eu odio magna. Fusce suscipit
-      ligula sit amet elit auctor laoreet. Aenean vestibulum nisi in scelerisque porttitor. Nunc
-      viverra congue metus ut placerat. Nulla nisl lacus, molestie in vehicula in, euismod sodales
-      lorem. Curabitur facilisis tellus scelerisque odio iaculis, eget euismod dui feugiat. Ut
-      imperdiet tempus ligula sit amet tempor. Phasellus pretium erat vel magna condimentum
-      pellentesque.
+      We believe positive social change is possible. We work on a range of international development
+      programs from policy through design and implementation. Our expertise is in complex,
+      multi-stakeholder projects across dispersed global geographies. Farstar is founded and run by
+      serial entrepreneurs who believe in enterprise and innovation as drivers of change. We are
+      fortunate to work with a world-wide network of experienced partners, driven collaborators and
+      passionate clients.
     </p>
     {/* <Link to="/page-2/">Go to page 2</Link> */}
   </Layout>
