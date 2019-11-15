@@ -10,10 +10,9 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <div className="home">
-      <div style={{ maxWidth: `150px`, marginBottom: `1.45rem` }}>
+      <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
         <Logo />
       </div>
-      <h1>(Social Change)++</h1>
       <p style={{ textAlign: "justify" }}>
         We believe positive social change is possible. We work on a range of international
         development programs from policy through design and implementation. Our expertise is in
