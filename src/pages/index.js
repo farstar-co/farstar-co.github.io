@@ -10,10 +10,10 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <div className="home">
-      <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
+      <div style={{ maxWidth: `340px`, marginBottom: `3.45rem` }}>
         <Logo />
       </div>
-      <p style={{ textAlign: "justify" }}>
+      <p style={{ textAlign: "justify", marginBottom: `3.45rem` }}>
         We believe positive social change is possible. We work on a range of international
         development programs from policy through design and implementation. Our expertise is in
         complex, multi-stakeholder projects across dispersed global geographies. Farstar is founded

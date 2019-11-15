@@ -17,7 +17,7 @@ const Logo = () => {
   const data = useStaticQuery(graphql`
     query {
       placeholderImage: file(
-        relativePath: { eq: "Logo/Symbol_Name/Color/Farstar-Logo-Symbol_Text-Light-Color.png" }
+        relativePath: { eq: "Logo/Symbol_Name/Color/Farstar-Logo-Symbol_Text-Light-Color@2x.png" }
       ) {
         childImageSharp {
           fluid {

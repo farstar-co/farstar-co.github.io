@@ -12,7 +12,7 @@ const Header = ({ siteTitle }) => (
       style={{
         margin: `0 auto`,
         maxWidth: 600,
-        padding: `1.45rem 1.0875rem`,
+        padding: `1rem 1.0875rem`,
       }}
     >
       {/*
